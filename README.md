@@ -20,8 +20,9 @@
 6. **Конец**
 
 ### Блок-схема
-<img width="493" height="702" alt="chema_3" src="https://github.com/user-attachments/assets/a301ef69-5bb0-4b4a-b873-c11a5b024871" />  
-([chema_3.drawio](https://github.com/danechek07/rabota-3/blob/main/chema_3.png))
+<img width="572" height="593" alt="chema_4" src="https://github.com/user-attachments/assets/88110db7-2f56-4730-b151-af399e027583" />
+
+[сhema_4.drawio](https://github.com/danechek07/rabota-4/blob/main/chema_4.png)
 
 
 ## 2. [Реализация программы](https://github.com/danechek07/rabota-4/blob/main/4.c)
