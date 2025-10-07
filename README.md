@@ -31,7 +31,7 @@
 
 [chema_3.drawio](https://github.com/danechek07/rabota-3/blob/main/chema_3.png)
 
-## 2. [Реализация программы](https://github.com/danechek07/rabota-3/blob/main/%233.c)
+## 2. [Реализация программы](https://github.com/danechek07/rabota-4/blob/main/4.c)
 
 
 
